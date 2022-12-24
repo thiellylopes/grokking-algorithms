@@ -16,4 +16,4 @@ Repositório de estudos baseado no livro Entendendo Algoritmos: Um Guia Ilustrad
 - Grafo
 
 ⚙️ Tecnologias usadas
-- Phyton
+- JavaScript
